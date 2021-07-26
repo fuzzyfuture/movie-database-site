@@ -1,5 +1,13 @@
 # Movie Database Site
- Movie database website with login, search, and rating functionality, using plain PHP and Javascript on a MySQL database. For CS 215 - Web and Database Programming, at the University of Regina.
+ Movie database website that allows users to:
+ - Create/login to an account
+ - Customize name and profile picture
+ - Search the database for movies on a number of factors
+ - Give movies a rating
+ - Add/remove movies to/from a "watchlist"
+
+ Built using plain PHP and Javascript on a MySQL database.
+ Final project for CS 215 - Web and Database Programming, at the University of Regina.
 
 ## Hosting
 Currently hosted at http://www2.cs.uregina.ca/~ngc582/movie-database-site, may be taken down without notice.
