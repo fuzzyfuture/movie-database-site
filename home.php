@@ -196,7 +196,7 @@
                         $uid = 0;
                     }
 
-                    $db = new mysqli("localhost", "ngc582", "Sponge7!", "ngc582");
+                    $db = new mysqli("localhost", "", "", "");
                     if ($db->connect_error)
                     {
                         die("Connection failed: ".$db->connect_error);
