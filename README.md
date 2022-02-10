@@ -7,7 +7,7 @@
  - Add/remove movies to/from a "watchlist"
 
  Built using plain PHP and Javascript on a MySQL database.
- Final project for CS 215 - Web and Database Programming, at the University of Regina.
+ Final project for Web and Database Programming.
 
 ## Hosting
 Currently hosted at http://www2.cs.uregina.ca/~ngc582/movie-database-site, may be taken down without notice.
